@@ -1,7 +1,7 @@
 #06_02_hangman_file_try
 import random
 
-words_file = 'hangman_words.txt'
+words_file = 'prog_pi_ed3/hangman_words.txt'
 try:
 	f = open(words_file)
 	words = f.read().splitlines()
