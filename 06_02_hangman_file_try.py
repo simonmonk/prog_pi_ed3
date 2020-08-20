@@ -10,6 +10,7 @@ except IOError:
 	print("Cannot find file: " + words_file)
 	exit()
 
+
 lives_remaining = 14
 guessed_letters = ''
 
