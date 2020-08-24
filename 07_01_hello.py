@@ -1,9 +1,7 @@
 #07_01_hello.py
 
-from tkinter import *
+from guizero import App, Text
 
-root = Tk()
-
-Label(root, text='Hello World').pack()
-
-root.mainloop()
+app = App()
+Text(app, text="Hello World")
+app.display()
