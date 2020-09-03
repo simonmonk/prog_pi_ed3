@@ -1,8 +1,8 @@
-#08_
+#08_05_rasp_game_refactored
 
 import pygame
 from pygame.locals import *
-from sys import exit
+
 import random
 
 score = 0
@@ -43,16 +43,16 @@ pygame.init()
 
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption('Raspberry Catching')
-                                 
-spoon = pygame.image.load('spoon.jpg').convert()
-raspberry_image = pygame.image.load('raspberry.jpg').convert()
+
+spoon = pygame.image.load('prog_pi_ed3/spoon.jpg').convert()
+raspberry_image = pygame.image.load('prog_pi_ed3/raspberry.jpg').convert()
 
 def update_spoon():
     global spoon_x
     global spoon_y
     spoon_x, ignore = pygame.mouse.get_pos()
     screen.blit(spoon, (spoon_x, spoon_y))
-    
+
 def check_for_catch():
     global score
     if r.is_caught():
@@ -67,7 +67,7 @@ while True:
 
     for event in pygame.event.get():
         if event.type == QUIT:
-            exit()
+            pygame.quit()
 
     screen.fill((255, 255, 255))
     r.update()
@@ -76,5 +76,4 @@ while True:
     display("Score: " + str(score))
     pygame.display.update()
     clock.tick(30)
-
 

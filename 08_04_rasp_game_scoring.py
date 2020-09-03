@@ -2,7 +2,6 @@
 
 import pygame
 from pygame.locals import *
-from sys import exit
 import random
 
 score = 0
@@ -20,9 +19,9 @@ pygame.init()
 
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption('Raspberry Catching')
-                                 
-spoon = pygame.image.load('spoon.jpg').convert()
-raspberry = pygame.image.load('raspberry.jpg').convert()
+
+spoon = pygame.image.load('prog_pi_ed3/spoon.jpg').convert()
+raspberry = pygame.image.load('prog_pi_ed3/raspberry.jpg').convert()
 
 def update_spoon():
     global spoon_x
@@ -60,12 +59,11 @@ while True:
 
     for event in pygame.event.get():
         if event.type == QUIT:
-            exit()
+            pygame.quit()
 
     screen.fill((255, 255, 255))
     update_raspberry()
     update_spoon()
     check_for_catch()
     pygame.display.update()
-
 
