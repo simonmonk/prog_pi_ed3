@@ -1,15 +1,10 @@
-#09_switch.py
+#09_04_switch.py
 
-import RPi.GPIO as GPIO
-import time
-# Configure the Pi to use the BCM (Broadcom) pin names, rather than the pin pos$
-GPIO.setmode(GPIO.BCM)
+import gpiozero, time
 
-switch_pin = 23
-
-GPIO.setup(switch_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+switch = gpiozero.Button(23, pull_up=True)
 
 while True:
-    if GPIO.input(switch_pin) == False:
+    if switch.is_pressed:
         print("Button Pressed")
         time.sleep(0.2)
