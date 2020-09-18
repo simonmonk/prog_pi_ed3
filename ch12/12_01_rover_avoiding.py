@@ -20,4 +20,6 @@ while True:
     print(distance)
     if distance < 50:
         turn_randomly()
+    else:
+        forward()
     time.sleep(0.2)
