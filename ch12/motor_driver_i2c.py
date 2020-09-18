@@ -59,7 +59,7 @@ class MotorDriver():
             self.stop()
 
 m = MotorDriver()
-m.set_motors(50, 1, 25, 0)
+m.set_motors(1, 1, 0.25, 0)
 input("stop")
 m.stop()
 input("forward")
