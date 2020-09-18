@@ -35,3 +35,4 @@ class MotorDriver():
 m = MotorDriver()
 m.set_motors(50, 1, 25, 0)
 input("stop")
+m.set_motors(0, 0, 0, 0)
