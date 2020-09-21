@@ -9,9 +9,9 @@ rangefinder = DistanceSensor(echo=18, trigger=17)
 def turn_randomly():
     turn_time = random.randint(1, 3)
     if random.randint(1, 2) == 1:
-        motors.left(turn_time, 0.5) # turn at half speed
+        motors.left(turn_time) 
     else:
-        motors.right(turn_time, 0.5)
+        motors.right(turn_time)
     motors.stop()
 
 while True:
