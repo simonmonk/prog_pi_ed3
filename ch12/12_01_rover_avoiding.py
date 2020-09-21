@@ -23,5 +23,5 @@ while True:
     elif distance < 50:
         turn_randomly()
     else:
-        forward()
+        motors.forward()
     time.sleep(0.2)
