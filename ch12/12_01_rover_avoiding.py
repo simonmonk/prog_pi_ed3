@@ -18,7 +18,7 @@ while True:
     print("HERE")
     distance = rangefinder.distance * 100 # convert to cm
     print(distance)
-    if distance < 10:
+    if distance < 20:
         motors.stop()
     elif distance < 50:
         turn_randomly()
