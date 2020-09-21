@@ -1,6 +1,6 @@
 # 12_02_rover_web.py
 
-from bottle import route, run, template
+from bottle import route, run, template, request
 from motor_driver_i2c import MotorDriver
 
 motors = MotorDriver()
