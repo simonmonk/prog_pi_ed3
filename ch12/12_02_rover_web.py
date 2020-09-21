@@ -21,4 +21,4 @@ def index():
         motors.reverse(0, 0.3) # reverse slowly
     return template('home.tpl')
         
-run(host="localhost", port=80)
+run(host="0.0.0.0", port=80)
