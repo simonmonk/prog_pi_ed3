@@ -1,4 +1,4 @@
-# 12_01_rover_avoiding.py
+# 12_02_rover_avoiding.py
 from gpiozero import DistanceSensor
 from motor_driver_i2c import MotorDriver
 import time, random
