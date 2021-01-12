@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.monkmakes.com/xmlrpc.php">
+<title>Animatronic Head Kit for micro:bit - Monk Makes</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.monkmakes.com/mb_head/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Animatronic Head Kit for micro:bit - Monk Makes" />
+<meta property="og:description" content="Buy:  This kit provides everything you need (apart from a micro:bit and batteries) to make a talking animatronic head. Its eyes move and the head speaks from a MonkMakes Speaker for ..." />
+<meta property="og:url" content="https://www.monkmakes.com/mb_head/" />
+<meta property="og:site_name" content="Monk Makes" />
+<meta property="og:image" content="https://www.monkmakes.com/wp-content/uploads/2019/01/cool_components.png" />
+<meta property="og:image" content="https://www.monkmakes.com/wp-content/uploads/2019/01/finished_main-293x300.jpg" />
+<meta property="og:image" content="https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code-193x300.png" />
+<meta property="og:image" content="https://www.monkmakes.com/wp-content/uploads/2019/01/crazy_eyes_code-240x300.png" />
+<meta property="og:image" content="https://www.monkmakes.com/wp-content/uploads/2019/01/robot_beeping_code-140x300.png" />
+<meta property="og:image" content="https://www.monkmakes.com/wp-content/uploads/2019/01/python_online_code_editor.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Buy:  This kit provides everything you need (apart from a micro:bit and batteries) to make a talking animatronic head. Its eyes move and the head speaks from a MonkMakes Speaker for ..." />
+<meta name="twitter:title" content="Animatronic Head Kit for micro:bit - Monk Makes" />
+<meta name="twitter:image" content="https://www.monkmakes.com/wp-content/uploads/2019/01/cool_components.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.monkmakes.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Monk Makes &raquo; Feed" href="https://www.monkmakes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Monk Makes &raquo; Comments Feed" href="https://www.monkmakes.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.monkmakes.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cntctfrmStylesheet-css'  href='http://www.monkmakes.com/wp-content/plugins/contact-form-plugin/css/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='http://www.monkmakes.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='http://www.monkmakes.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://www.monkmakes.com/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.12.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wds_frontend-css'  href='http://www.monkmakes.com/wp-content/plugins/slider-wd/css/wds_frontend.css?ver=1.1.73' type='text/css' media='all' />
+<link rel='stylesheet' id='wds_effects-css'  href='http://www.monkmakes.com/wp-content/plugins/slider-wd/css/wds_effects.css?ver=1.1.73' type='text/css' media='all' />
+<link rel='stylesheet' id='wds_font-awesome-css'  href='http://www.monkmakes.com/wp-content/plugins/slider-wd/css/font-awesome/font-awesome.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C600%2C700%2C300%2C100%2C800%2C900%7COpen+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-animate-css'  href='http://www.monkmakes.com/wp-content/themes/onepress/assets/css/animate.min.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-fa-css'  href='http://www.monkmakes.com/wp-content/themes/onepress/assets/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-bootstrap-css'  href='http://www.monkmakes.com/wp-content/themes/onepress/assets/css/bootstrap.min.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-style-css'  href='http://www.monkmakes.com/wp-content/themes/onepress/style.css?ver=4.7.3' type='text/css' media='all' />
+<style id='onepress-style-inline-css' type='text/css'>
+#main .video-section section.hero-slideshow-wrapper{background:transparent}.hero-slideshow-wrapper:after{position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0,0,0,0.3);display:block;content:""}.body-desktop .parallax-hero .hero-slideshow-wrapper:after{display:none!important}#mirror-parallax-hero::before,#parallax-hero{background-color:rgba(0,0,0,0.3);opacity:1}.body-desktop .parallax-hero .hero-slideshow-wrapper:after{display:none!important}a,.screen-reader-text:hover,.screen-reader-text:active,.screen-reader-text:focus,.header-social a,.onepress-menu a:hover,.onepress-menu ul li a:hover,.onepress-menu li.onepress-current-item>a,.onepress-menu ul li.current-menu-item>a,.onepress-menu>li a.menu-actived,.onepress-menu.onepress-menu-mobile li.onepress-current-item>a,.site-footer a,.site-footer .footer-social a:hover,.site-footer .btt a:hover,.highlight,#comments .comment .comment-wrapper .comment-meta .comment-time:hover,#comments .comment .comment-wrapper .comment-meta .comment-reply-link:hover,#comments .comment .comment-wrapper .comment-meta .comment-edit-link:hover,.btn-theme-primary-outline,.sidebar .widget a:hover,.section-services .service-item .service-image i,.counter_item .counter__number,.team-member .member-thumb .member-profile a:hover,.icon-background-default{color:#58568a}input[type="reset"],input[type="submit"],input[type="submit"],.nav-links a:hover,.btn-theme-primary,.btn-theme-primary-outline:hover,.card-theme-primary,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce button.button.alt{background:#58568a}.btn-theme-primary-outline,.btn-theme-primary-outline:hover,.pricing__item:hover,.card-theme-primary,.entry-content blockquote{border-color:#58568a}.gallery-carousel .g-item{padding:0px 10px}.gallery-carousel{margin-left:-10px;margin-right:-10px}.gallery-grid .g-item,.gallery-masonry .g-item .inner{padding:10px}.gallery-grid,.gallery-masonry{margin:-10px}
+</style>
+<link rel='stylesheet' id='onepress-gallery-lightgallery-css'  href='http://www.monkmakes.com/wp-content/themes/onepress/assets/css/lightgallery.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='prism-theme-css'  href='http://www.monkmakes.com/wp-content/plugins/ank-prism-for-wp/out/prism-css.min.css?ver=1509528808' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='http://www.monkmakes.com/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.monkmakes.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.7' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var onepress_js_settings = {"onepress_disable_animation":"","onepress_disable_sticky_header":"","onepress_vertical_align_menu":"","hero_animation":"flipInX","hero_speed":"5000","hero_fade":"750","hero_duration":"5000","is_home":"","gallery_enable":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[]};
+var log_object = {"ajax_url":"https:\/\/www.monkmakes.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.7.0'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/slider-wd/js/jquery.mobile.js?ver=1.1.73'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/slider-wd/js/wds_frontend.js?ver=1.1.73'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/jetpack/_inc/spin.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/jetpack/_inc/jquery.spin.js?ver=1.3'></script>
+<link rel='https://api.w.org/' href='https://www.monkmakes.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.monkmakes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.monkmakes.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://wp.me/P6qnPw-uF' />
+<link rel="alternate" type="application/json+oembed" href="https://www.monkmakes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.monkmakes.com%2Fmb_head%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.monkmakes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.monkmakes.com%2Fmb_head%2F&#038;format=xml" />
+<link rel="dns-prefetch" href="//images-cdn.ecwid.com/">
+<link rel="dns-prefetch" href="//images.ecwid.com/">
+<link rel="dns-prefetch" href="//app.ecwid.com/">
+<link rel="prefetch" href="https://www.monkmakes.com/mb_head/" />
+<link rel="prerender" href="https://www.monkmakes.com/mb_head/" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67808947-1', 'auto');
+  ga('send', 'pageview');
+
+function doSomething() {
+  alert("doing something");
+}
+
+</script>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style>		<script type="text/javascript">
+			var cli_flush_cache=2;
+		</script>
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20550460-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><link rel="icon" href="https://www.monkmakes.com/wp-content/uploads/2017/03/cropped-mm_site_icon_512_sq-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.monkmakes.com/wp-content/uploads/2017/03/cropped-mm_site_icon_512_sq-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.monkmakes.com/wp-content/uploads/2017/03/cropped-mm_site_icon_512_sq-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.monkmakes.com/wp-content/uploads/2017/03/cropped-mm_site_icon_512_sq-270x270.png" />
+			<style type="text/css" id="wp-custom-css">
+				/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+p{
+font-size:16px;
+}			</style>
+		</head>
+
+<body class="page-template-default page page-id-1901 wp-custom-logo group-blog sticky-header">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+            <header id="masthead" class="site-header" role="banner">
+            <div class="container">
+                <div class="site-branding">
+                <div class="site-brand-inner has-logo-img no-desc"><div class="site-logo-div"><a href="https://www.monkmakes.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="100" height="60" src="https://www.monkmakes.com/wp-content/uploads/2017/03/website_logo_very_small.png" class="custom-logo" alt="" itemprop="logo" data-attachment-id="1256" data-permalink="https://www.monkmakes.com/website_logo_very_small/" data-orig-file="https://www.monkmakes.com/wp-content/uploads/2017/03/website_logo_very_small.png" data-orig-size="100,60" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="website_logo_very_small" data-image-description="" data-medium-file="https://www.monkmakes.com/wp-content/uploads/2017/03/website_logo_very_small.png" data-large-file="https://www.monkmakes.com/wp-content/uploads/2017/03/website_logo_very_small.png" /></a></div></div>                </div>
+                <!-- .site-branding -->
+
+                <div class="header-right-wrapper">
+                    <a href="#0" id="nav-toggle">Menu<span></span></a>
+                    <nav id="site-navigation" class="main-navigation" role="navigation">
+                        <ul class="onepress-menu">
+                            <li id="menu-item-920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-920"><a href="https://www.monkmakes.com/">Home</a></li>
+<li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927"><a href="https://www.monkmakes.com/product/">Products</a></li>
+<li id="menu-item-1656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1656"><a href="https://www.monkmakes.com/product/microbit/">BBC micro:bit</a></li>
+<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="https://www.monkmakes.com/lindas-blog/">Linda&#8217;s Blog</a></li>
+<li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-950"><a href="http://simonmonk.org">Simon&#8217;s Books</a></li>
+<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a href="https://www.monkmakes.com/contact/">Contact</a></li>
+<li id="menu-item-860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-860"><a href="https://www.monkmakes.com/the-monk-makes-story/">The Monk Makes Story</a></li>
+                        </ul>
+                    </nav>
+                    <!-- #site-navigation -->
+                </div>
+            </div>
+        </header><!-- #masthead -->
+        
+	<div id="content" class="site-content">
+
+		<div class="page-header">
+			<div class="container">
+				<h1 class="entry-title">Animatronic Head Kit for micro:bit</h1>			</div>
+		</div>
+
+		
+		<div id="content-inside" class="container right-sidebar">
+			<div id="primary" class="content-area">
+				<main id="main" class="site-main" role="main">
+
+					
+						
+<article id="post-1901" class="post-1901 page type-page status-publish hentry">
+	<header class="entry-header">
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Buy: <a href="https://coolcomponents.co.uk/products/animatronic-head-kit-for-micro-bit"><img data-attachment-id="2097" data-permalink="https://www.monkmakes.com/mb_head/cool_components/" data-orig-file="https://www.monkmakes.com/wp-content/uploads/2019/01/cool_components.png" data-orig-size="268,73" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cool_components" data-image-description="" data-medium-file="https://www.monkmakes.com/wp-content/uploads/2019/01/cool_components.png" data-large-file="https://www.monkmakes.com/wp-content/uploads/2019/01/cool_components.png" class="alignnone wp-image-2097" src="https://www.monkmakes.com/wp-content/uploads/2019/01/cool_components.png" alt="" width="150" height="41" /></a></p>
+<p>This kit provides everything you need (apart from a micro:bit and batteries) to make a talking animatronic head. Its eyes move and the head speaks from a MonkMakes Speaker for micro:bit.</p>
+<p><img data-attachment-id="2083" data-permalink="https://www.monkmakes.com/mb_head/olympus-digital-camera-55/" data-orig-file="https://www.monkmakes.com/wp-content/uploads/2019/01/finished_main.jpg" data-orig-size="1774,1818" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;20&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;E-M10MarkII&quot;,&quot;caption&quot;:&quot;OLYMPUS DIGITAL CAMERA&quot;,&quot;created_timestamp&quot;:&quot;1565693717&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;22&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.1&quot;,&quot;title&quot;:&quot;OLYMPUS DIGITAL CAMERA&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OLYMPUS DIGITAL CAMERA" data-image-description="" data-medium-file="https://www.monkmakes.com/wp-content/uploads/2019/01/finished_main-293x300.jpg" data-large-file="https://www.monkmakes.com/wp-content/uploads/2019/01/finished_main-999x1024.jpg" class="size-medium wp-image-2083" src="https://www.monkmakes.com/wp-content/uploads/2019/01/finished_main-293x300.jpg" alt="" width="293" height="300" srcset="https://www.monkmakes.com/wp-content/uploads/2019/01/finished_main-293x300.jpg 293w, https://www.monkmakes.com/wp-content/uploads/2019/01/finished_main-768x787.jpg 768w, https://www.monkmakes.com/wp-content/uploads/2019/01/finished_main-999x1024.jpg 999w" sizes="(max-width: 293px) 100vw, 293px" /></p>
+<h2>Instructions</h2>
+<p>The kit comes with a 30 page printed color booklet. You can also <a href="/downloads/mb_anim_instructions.pdf">download an electronic copy here</a>.</p>
+<h2>Software</h2>
+<p>The programs for this project are a mixture of Makecode blocks and MicroPython. MicroPython is needed for some projects as the speech module is not available as blocks code and its nice to have the robot talk.</p>
+<h3>Program 0. Eyes Front</h3>
+<p>Click on the image below to open the program ready to flash it onto your micro:bit.</p>
+<p><a href="https://makecode.microbit.org/_UdjcVHieM46V" target="_blank"><img data-attachment-id="2036" data-permalink="https://www.monkmakes.com/mb_head/eyes_front_code/" data-orig-file="https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code.png" data-orig-size="1318,2048" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="eyes_front_code" data-image-description="" data-medium-file="https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code-193x300.png" data-large-file="https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code-659x1024.png" class="wp-image-2036 size-medium alignnone" src="https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code-193x300.png" alt="" width="193" height="300" srcset="https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code-193x300.png 193w, https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code-768x1193.png 768w, https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code-659x1024.png 659w, https://www.monkmakes.com/wp-content/uploads/2019/01/eyes_front_code.png 1318w" sizes="(max-width: 193px) 100vw, 193px" /></a></p>
+<p>&nbsp;</p>
+<h3>Program 1. Crazy Eyes</h3>
+<p>Click on the image below to open the program ready to flash it onto your micro:bit.</p>
+<p><a href="https://makecode.microbit.org/_Aht4taTwt0ai" target="_blank"><img data-attachment-id="2038" data-permalink="https://www.monkmakes.com/mb_head/crazy_eyes_code/" data-orig-file="https://www.monkmakes.com/wp-content/uploads/2019/01/crazy_eyes_code.png" data-orig-size="2278,2852" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="crazy_eyes_code" data-image-description="" data-medium-file="https://www.monkmakes.com/wp-content/uploads/2019/01/crazy_eyes_code-240x300.png" data-large-file="https://www.monkmakes.com/wp-content/uploads/2019/01/crazy_eyes_code-818x1024.png" class="alignleft wp-image-2038 size-medium" src="https://www.monkmakes.com/wp-content/uploads/2019/01/crazy_eyes_code-240x300.png" alt="" width="240" height="300" srcset="https://www.monkmakes.com/wp-content/uploads/2019/01/crazy_eyes_code-240x300.png 240w, https://www.monkmakes.com/wp-content/uploads/2019/01/crazy_eyes_code-768x962.png 768w, https://www.monkmakes.com/wp-content/uploads/2019/01/crazy_eyes_code-818x1024.png 818w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>PROGRAM 2. Robot Beeping</h3>
+<p>Click on the image below to open the program ready to flash it onto your micro:bit.</p>
+<p><a href="https://makecode.microbit.org/_L7LFr1Xaobgu"><img data-attachment-id="2086" data-permalink="https://www.monkmakes.com/mb_head/robot_beeping_code/" data-orig-file="https://www.monkmakes.com/wp-content/uploads/2019/01/robot_beeping_code.png" data-orig-size="1952,4196" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="robot_beeping_code" data-image-description="" data-medium-file="https://www.monkmakes.com/wp-content/uploads/2019/01/robot_beeping_code-140x300.png" data-large-file="https://www.monkmakes.com/wp-content/uploads/2019/01/robot_beeping_code-476x1024.png" class="alignleft size-medium wp-image-2086" src="https://www.monkmakes.com/wp-content/uploads/2019/01/robot_beeping_code-140x300.png" alt="" width="140" height="300" srcset="https://www.monkmakes.com/wp-content/uploads/2019/01/robot_beeping_code-140x300.png 140w, https://www.monkmakes.com/wp-content/uploads/2019/01/robot_beeping_code-768x1651.png 768w, https://www.monkmakes.com/wp-content/uploads/2019/01/robot_beeping_code-476x1024.png 476w" sizes="(max-width: 140px) 100vw, 140px" /></a></p>
+<p>&nbsp;</p>
+<h3></h3>
+<h3>Program 3. Talking Head</h3>
+<p>Click <a href="https://python.microbit.org/v/1.1" target="_blank">HERE</a> to open the online Python Editor delete the example text in the editor window and then copy and paste the following code into the editor window.</p>
+<pre>from microbit import *
+import random, speech
+
+sentences = [
+    "Hello my name is Mike",
+    "What is your name",
+    "I am looking at you",
+    "Exterminate exterminate exterminate",
+    "Number Five is alive",
+    "I cant do that Dave",
+    "daisee daisee give me your answer do"
+    ]
+
+lips0 = Image("00000:"
+             "00000:"
+             "99999:"
+             "00000:"
+             "00000")
+             
+lips1 = Image("00000:"
+             "00900:"
+             "99099:"
+             "00900:"
+             "00000")
+             
+lips2 = Image("00000:"
+             "09990:"
+             "99099:"
+             "09990:"
+             "00000")
+             
+lips = [lips0, lips1, lips2]
+
+def set_servo_angle(pin, angle):
+    duty = 26 + (angle * 51) / 90
+    pin.write_analog(duty)
+    
+def speak(sentence):
+    words = sentence.split()
+    for i in range(0, len(words)):
+        display.show(random.choice(lips))
+        speech.say(words[i])
+    display.show(lips0)
+    
+def act():
+    angle = random.randint(0, 180)
+    set_servo_angle(pin1, angle)
+    set_servo_angle(pin2, angle)
+    sleep(300)
+    speak(random.choice(sentences))
+    set_servo_angle(pin1, 90)
+    set_servo_angle(pin2, 90)
+    sleep(1000)
+    
+base_z = 0
+
+while True:
+    new_z = abs(accelerometer.get_z())
+    if abs(new_z - base_z) &gt; 20:
+        base_z = new_z
+        act()
+    if random.randint(0, 1000) == 0: # say something 1 time in 1000
+        act()
+    sleep(100)
+</pre>
+<p>With the code in the editor, click on the Download button and then copy the Hex file onto your micro:bit.</p>
+<p><img data-attachment-id="2040" data-permalink="https://www.monkmakes.com/mb_head/python_online_code_editor/" data-orig-file="https://www.monkmakes.com/wp-content/uploads/2019/01/python_online_code_editor.png" data-orig-size="759,725" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="python_online_code_editor" data-image-description="" data-medium-file="https://www.monkmakes.com/wp-content/uploads/2019/01/python_online_code_editor-300x287.png" data-large-file="https://www.monkmakes.com/wp-content/uploads/2019/01/python_online_code_editor.png" class="alignleft wp-image-2040 size-full" src="https://www.monkmakes.com/wp-content/uploads/2019/01/python_online_code_editor.png" alt="" width="759" height="725" srcset="https://www.monkmakes.com/wp-content/uploads/2019/01/python_online_code_editor.png 759w, https://www.monkmakes.com/wp-content/uploads/2019/01/python_online_code_editor-300x287.png 300w" sizes="(max-width: 759px) 100vw, 759px" /></p>
+			</div><!-- .entry-content -->
+</article><!-- #post-## -->
+
+
+						
+					
+				</main><!-- #main -->
+			</div><!-- #primary -->
+
+                            
+<div id="secondary" class="widget-area sidebar" role="complementary">
+	<aside id="twitter_timeline-5" class="widget widget_twitter_timeline"><h2 class="widget-title">Follow us on Twitter</h2><a class="twitter-timeline" data-height="400" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-lang="EN" data-partner="jetpack" href="https://twitter.com/@monkmakes">My Tweets</a></aside></div><!-- #secondary -->
+            
+		</div><!--#content-inside -->
+	</div><!-- #content -->
+
+    <footer id="colophon" class="site-footer" role="contentinfo">
+        
+        <div class="site-info">
+            <div class="container">
+                                    <div class="btt">
+                        <a class="back-top-top" href="#page" title="Back To Top"><i class="fa fa-angle-double-up wow flash" data-wow-duration="2s"></i></a>
+                    </div>
+                                        Copyright &copy; 2020 Monk Makes        <span class="sep"> &ndash; </span>
+        <a href="https://www.famethemes.com/themes/onepress">OnePress</a> theme by FameThemes                    </div>
+        </div>
+        <!-- .site-info -->
+
+    </footer><!-- #colophon -->
+</div><!-- #page -->
+
+<div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.<a href="#" data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" >Accept</a> <a href="https://www.monkmakes.com/cookies" id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  >Read More</a></span></div><div id="cookie-law-info-again"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<script type="text/javascript">
+  //<![CDATA[
+  cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":false,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#fff","button_4_as_button":true,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":false,"reject_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":false,"popup_overlay":true,"bar_heading_text":""}';
+  //]]>
+</script><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.monkmakes.com/wp-admin/admin-ajax.php";
+</script>
+	<div style="display:none">
+	</div>
+
+<script type="text/javascript" src="https://sellfy.com/js/api_buttons.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.12.2'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202039'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/themes/onepress/assets/js/plugins.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/themes/onepress/assets/js/bootstrap.min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/themes/onepress/assets/js/theme.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/jetpack/_inc/twitter-timeline.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/ank-prism-for-wp/out/prism-js.min.js?ver=1509528808'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"http:\/\/www.monkmakes.com\/wp-admin\/admin-ajax.php","nonce":"4999d12460","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/www.monkmakes.com\/wp-login.php?redirect_to=https%3A%2F%2Fwww.monkmakes.com%2Fmb_head%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.js?ver=20170209'></script>
+<script type='text/javascript' src='http://www.monkmakes.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202039.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.7',blog:'94946150',post:'1901',tz:'0',srv:'www.monkmakes.com'} ]);
+	_stq.push([ 'clickTrackerInit', '94946150', '1901' ]);
+</script>
+
+</body>
+</html>
